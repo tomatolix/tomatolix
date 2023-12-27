@@ -4,7 +4,6 @@
 
 ### 🧐 More About Me:
 
-- 🤝 &nbsp; I’m looking to collaborate on [cuza.pages.dev](https://github.com/dynow/cuza.pages.dev)
 - 📝 &nbsp; Checkout my [resume]() - SOON
 - 😎 &nbsp; I have a cool [site](https://uwuhaftig.de)
 - 😗 &nbsp; I like silly cats 🐈 ------>
