@@ -7,6 +7,7 @@
 - 📝 &nbsp; Checkout my [resume]() - SOON
 - 😎 &nbsp; I have a cool [site](https://uwuhaftig.de)
 - 😗 &nbsp; I like silly cats 🐈 ------>
+- ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/tomatolix)
 
 <a href="https://discord.com/users/455608238335983617"><img alt="GIF" src="https://lanyard.cnrad.dev/api/1159863525561356379" width="360px"/></a>
 
