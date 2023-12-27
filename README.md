@@ -42,7 +42,7 @@
 
 <a style="text-decoration: none !important" href='https://github.com/DynoW/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/DynoW/github-stats-transparent/output/generated/overview.svg)
+![Stats Overview](https://raw.githubusercontent.com/tomatolix/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/tomatolix/github-stats-transparent/output/generated/languages.svg)
 
 </a>
